@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EspressoSample</string>
+    <string name="change_name">Change Label</string>
+    <string name="changed">Changed!</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="reset">Reset</string>
+    <string name="set">Set</string>
+    <string name="empty_input">El texto no puede estar vacío</string>
+</resources>
