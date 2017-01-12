@@ -6,4 +6,7 @@
     <string name="reset">Reset</string>
     <string name="set">Set</string>
     <string name="empty_input">El texto no puede estar vacío</string>
+    <string name="im_a_footer">Hi, Im a footer text</string>
+    <string name="show_as_footer">Show as footer</string>
+    <string name="write_your_footer_here">Write your footer here</string>
 </resources>

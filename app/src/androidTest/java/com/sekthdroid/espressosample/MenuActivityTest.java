@@ -31,7 +31,7 @@ public class MenuActivityTest {
 
     @Test
     public void shouldLoadListOfItems() throws Exception {
-        onView(withId(R.id.lv_items)).check(ViewAssertions.matches(Matchers.withItemCount(1)));
+        onView(withId(R.id.lv_items)).check(ViewAssertions.matches(Matchers.withItemCount(2)));
     }
 
     @Test

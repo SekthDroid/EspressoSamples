@@ -21,7 +21,8 @@ public class MenuActivity extends AppCompatActivity implements AdapterView.OnIte
         final ListView mListView = (ListView) findViewById(R.id.lv_items);
 
         final List<String> adapterItems = Arrays.asList(
-                "Activity"
+                "Activity",
+                "Activity with Fragment"
         );
         final ArrayAdapter<String> adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, adapterItems);
 
